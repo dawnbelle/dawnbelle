@@ -1,4 +1,4 @@
-### /header.png
+![intro header for Ray Belle](https://github.com/dawnbelle/dawnbelle/blob/main/header.png?raw=true)
 
 <!--
 **dawnbelle/dawnbelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

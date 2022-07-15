@@ -1,4 +1,4 @@
-![intro header for Ray Belle](https://github.com/dawnbelle/dawnbelle/blob/main/header.png?raw=true)
+
   ```
  ___  ___  _______   ___       ___       ________     
 |\  \|\  \|\  ___ \ |\  \     |\  \     |\   __  \    
@@ -8,3 +8,5 @@
      \ \__\ \__\ \_______\ \_______\ \_______\ \_______\
       \|__|\|__|\|_______|\|_______|\|_______|\|_______|
     
+
+<!-- ![intro header for Ray Belle](https://github.com/dawnbelle/dawnbelle/blob/main/header.png?raw=true) -->

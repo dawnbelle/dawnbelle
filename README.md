@@ -9,17 +9,14 @@
       \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
       /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
      /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
-     \/__/         \/__/         \/__/     \/__/     \/__/      
-
-My name is Ray! I'm a Technical Support Engineer with a passion for code.
+     \/__/         \/__/         \/__/     \/__/     \/__/ 
+    
 ```
----
+Welcome to my Github! I'm a Technical Support Engineer with a **passion** for writing code.
 
-### Here's what I'm learning 🌻
-![blue and yellow python icon](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![yellow javascript icon](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+### Tech Stack
+[![My Skills](https://skills.thijs.gg/icons?i=py,git,vim,js,html,css)](https://skills.thijs.gg)
 
-### Here's what I love 🖤
-![nintendo switch icon](https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
-![reddit icon](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
-![twitch icon](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)
+[![Hits](https://hits.sh/github.com/dawnbelle.svg?view=today-total&label=visits&color=7AFE95)](https://hits.sh/github.com/dawnbelle/)
+
+!![Ray's GitHub stats](https://github-readme-stats.vercel.app/api?username=dawnbelle&show_icons=true&theme=dark)

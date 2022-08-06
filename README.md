@@ -11,10 +11,9 @@
      /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
      \/__/         \/__/         \/__/     \/__/     \/__/      
 
+My name is Ray! I'm a Technical Support Engineer with a passion for code.
 ```
 ---
-
-Welcome 🌿 My name is Ray! I'm a Technical Support Engineer @ Zendesk. 
 
 ### Here's what I'm learning 🌻
 ![blue and yellow python icon](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)

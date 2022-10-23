@@ -20,10 +20,10 @@
 - Avid Animal Crossing island dweller 🏖️ 
 
 #### Tech Stack
-[![Tech Stack](https://skills.thijs.gg/icons?i=html,css)](https://skills.thijs.gg)
+[![Tech Stack](https://skills.thijs.gg/icons?i=py,html,css)](https://skills.thijs.gg)
 
 #### Learning
-[![Learning Stack](https://skills.thijs.gg/icons?i=py,git,js)](https://skills.thijs.gg)
+[![Learning Stack](https://skills.thijs.gg/icons?i=git,js)](https://skills.thijs.gg)
 
 #### Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dawnbelle&show_icons=true&theme=dark)

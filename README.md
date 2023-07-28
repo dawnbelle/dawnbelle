@@ -16,7 +16,7 @@
 #### A Bit About Me
 - A curious self-starter 🐱
 - Mentoring under a Senior Software Engineer 💻
-- Technical Support Engineer @ Vitally 🤓
+- Senior Technical Support Specialist @ Vitally 🤓
 - Avid Animal Crossing island dweller 🏖️ 
 
 #### Tech Stack
